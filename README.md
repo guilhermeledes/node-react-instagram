@@ -1,1 +1,1 @@
-Estudos da Stack NodeJS React na Semana Oministack
+Estudos da Stack NodeJS, React e React Native na Semana Oministack
